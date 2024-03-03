@@ -6,12 +6,14 @@
 
 - [Installation](#installation)
 	- [Debian/Ubuntu](#debianubuntu)
-	- [CentOS](#centos)
+	- [CentOS](#centosrhel)
 	- [FreeBSD](#freebsd)
-	- [Alpine Linux / busybox](#alpine-Linux-busybox-based-distributions)
+	- [Alpine Linux / busybox](#alpine-linux--busybox-based-distributions)
+	- [macOS](#macos)
 	- [Other OSes](#other-oses)
 - [Configuration](#configuration)
 	- [Sanoid](#sanoid)
+	- [Syncoid](#syncoid)
 
 <!-- /TOC -->
 
@@ -178,7 +180,7 @@ For Alpine Linux this can be done with:
 
 `apk --no-cache add procps`
 
-## MacOS
+## macOS
 
 Install prerequisite software:
 
