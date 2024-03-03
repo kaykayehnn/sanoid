@@ -13,6 +13,7 @@
 	- [Other OSes](#other-oses)
 - [Configuration](#configuration)
 	- [Sanoid](#sanoid)
+	- [Syncoid](#syncoid)
 
 <!-- /TOC -->
 
